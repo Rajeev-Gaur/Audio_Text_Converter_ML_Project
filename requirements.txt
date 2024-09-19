@@ -1,0 +1,19 @@
+# Speech recognition library
+SpeechRecognition==3.10.0
+
+# Library for manipulating audio files
+pydub==0.25.1
+
+# Audio file handling library
+audioread==2.1.9
+
+# Library for creating and manipulating Word documents
+python-docx==0.8.11
+
+# Requests library for making HTTP requests 
+requests==2.28.1
+
+
+# pyttsx3==2.7  # For Text-to-Speech (if applicable)
+
+
